@@ -1,0 +1,59 @@
+.nav-wrapper {
+  background-color: grey;
+  }
+
+.background {
+  position: center;
+  width: auto;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  -webkit-background-size: auto;
+  -moz-background-size: auto;
+  -o-background-size: auto;
+  background-size: auto;
+}
+
+/* index.html CSS */
+#page1 #title {
+  position: absolute;
+  left: 0;
+  top: 30%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+  font-family: special elite; 
+  color: black;
+  opacity: 0.8;
+ }
+/* about.html CSS */
+#page2 .text-block {
+    border: 10px;
+    border-color: black;
+    position: absolute; 
+    left: 0;
+    top: 30%;
+    width: 100%;
+    padding: 50px;
+    text-align: center;
+    font-size: 18px;
+    font-family: special elite;
+  }
+
+  /* portfolio2.html CSS */
+#page3 .background {
+  opacity: 0.2
+}
+
+  /* contact2.html CSS */
+  #page4 label {
+    color: black
+  }
+ 
+  #page4 #exampleFormControlInput1 {
+background-color: white;
+    text-emphasis-color: black;
+  }
+    #page4 .form-group {
+      opacity: 0.7;
+    }
